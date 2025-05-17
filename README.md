@@ -10,7 +10,7 @@
 - 🎓 I'm a Computer Science student at the University of Artois.
 - 🌱 Currently diving deeper into **Data Science**, **MLOps**, and **Cloud Computing**.
 - 🛠 Passionate about building full-stack web apps and experimenting with AI.
-- 💬 Ask me about anything related to **JavaScript**, **React**, **Next.js**, or **Data Analysis**.
+- 💬 Ask me about anything related to **JavaScript**, **React**, **Next.js**, **Software engineering** or **Data Analysis**.
 
 ---
 
