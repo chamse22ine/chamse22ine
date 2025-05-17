@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chamseddine Adaadour
+# 👋 Hi there, I'm Chamseddine 
 
 [![Website](https://img.shields.io/website?label=chams.dev&style=for-the-badge&url=https%3A%2F%2Fchams.dev)](https://chams.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamseddinea-467b7731a)
