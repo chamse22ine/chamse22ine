@@ -3,14 +3,14 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # met à jour chaque heure
+    - cron: '0 * * * *'  # Toutes les heures
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo’s README with recent activity
+    name: Update README with recent activity
     runs-on: ubuntu-latest
     steps:
       - uses: Readme-Workflows/recent-activity@main
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
