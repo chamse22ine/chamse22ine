@@ -1,0 +1,16 @@
+# This is a basic workflow to help you get started with Actions
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # met à jour chaque heure
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo’s README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
