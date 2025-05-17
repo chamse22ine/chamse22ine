@@ -52,5 +52,5 @@
 
 ---
 
-📫 **Reach me**: [chams62@live.fr](mailto:chams62@live.fr)
+📫 **Reach me**: [contact@chams.dev](mailto:contact@chams.dev)
 
