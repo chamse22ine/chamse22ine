@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_USERNAME: chamse22ine # <-- Vérifie ton identifiant GitHub exact !
+          GH_USERNAME: chamse22ine
           COMMIT_NAME: GitHub Actions Bot
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MSG: "⚡ Update README with the recent activity"
