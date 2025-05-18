@@ -1,16 +1,18 @@
 # This is a basic workflow to help you get started with Actions
-name: Recent Activity
-
+name: Update README
 on:
   schedule:
-    - cron: '0 * * * *'  # Toutes les heures
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-
 jobs:
-  update-readme:
-    name: Update README with recent activity
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
