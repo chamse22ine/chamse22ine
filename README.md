@@ -38,7 +38,7 @@
 
 ![Chamseddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamse22ine&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamse22ine&layout=pie&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamse22ine&layout=pie&theme=tokyonight&cache_seconds=1800)
 
 ---
 
