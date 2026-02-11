@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 
-![Chamseddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamse22ine&show_icons=true&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chamse22ine?cardType=github&theme=github-dark&fontFamily=&preferLogin=false&borderRadius=4)](https://git.io/awesome-stats-card)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamse22ine&layout=pie&theme=tokyonight&cache_seconds=1800)
 
