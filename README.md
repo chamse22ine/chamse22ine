@@ -39,7 +39,8 @@
 ## ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [chamse22ine/github-readme-stats](https://github.com/chamse22ine/github-readme-stats)<br>
+1. ⬆️ Pushed undefined commit(s) to [chamse22ine/fedora-link](https://github.com/chamse22ine/fedora-link)<br>
+2. ⬆️ Pushed undefined commit(s) to [chamse22ine/github-readme-stats](https://github.com/chamse22ine/github-readme-stats)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
