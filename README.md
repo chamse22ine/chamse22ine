@@ -40,10 +40,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
-2. 💪 Opened PR [#6](undefined) in [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
-3. 💪 Opened PR [#5](undefined) in [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
-4. 💪 Opened PR [#4](undefined) in [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
-5. 💪 Opened PR [#3](undefined) in [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
+2. ⬆️ Pushed undefined commit(s) to [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
+3. ⬆️ Pushed undefined commit(s) to [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
+4. ⬆️ Pushed undefined commit(s) to [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
+5. 💪 Opened PR [#6](undefined) in [chamse22ine/Curriculum-Vitae](https://github.com/chamse22ine/Curriculum-Vitae)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
